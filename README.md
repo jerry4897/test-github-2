@@ -32,7 +32,7 @@ public class Calculator {
       result = a-b;
     else
       result = a-b;
-      
+
     return result;
   }
 
@@ -47,4 +47,4 @@ public class Calculator {
 2. Mockup ***(using Balsamiq, oven)***
 3. git pull
 4. git branch
-5. git merge
+5. git merge , 3 way merge
