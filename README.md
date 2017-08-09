@@ -1,6 +1,6 @@
-#***Github Training***
+# ***Github Training***
 
-##2017. 08. 08
+## 2017. 08. 08
 ***day 1***
 
 
@@ -33,7 +33,7 @@ public class Calculator {
 }
 ```
 
-##2017. 08. 09
+## 2017. 08. 09
 ***day 2***
 
 ![](http://pad.haroopress.com/docs/ko/markdown/images/markdown_128.png)
