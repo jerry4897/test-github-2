@@ -11,7 +11,7 @@ public class Calculator {
   }
 
   private static int division(int a, int b){
-    return a/b;  //edited by master
+    return a/b;  //edited by master and division
   }
 
   private static int multi(int a, int b){
